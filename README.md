@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Tom-Krnl
+- 👀 I’m interested in Distributed System, Clould and Infrastructure
+- 🌱 I’m currently learning Distributed Ledger Technogoly and Consensus algorithm
+- 📫 How to reach me Tom@krnl.xyz
+- 😄 Pronouns: he, him
+- ⚡ Fun fact: You never know what the world will bring you to.
